@@ -1,1 +1,1 @@
-Tek yonlu dairesel liste musteri uygulmasi ve dairesel liste calisma notlari
+One-way circular list customer application and circular list study notes
